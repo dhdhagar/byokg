@@ -1,9 +1,11 @@
 # BYOKG 
 **Bring Your Own KG: Self-Supervised Program Synthesis for Zero-shot KGQA**
 
-Arxiv link: https://arxiv.org/abs/2311.07850
+ArXiv: https://arxiv.org/abs/2311.07850  
+Camera-ready: Soon!
 
 ## Announcements
+* **24/04/01: Our source code is now available at [amazon-science/BYOKG-NAACL24](https://github.com/amazon-science/BYOKG-NAACL24)!**
 * 24/03/20: We are in the final stages of adding a public repository to the [Amazon Science](https://github.com/amazon-science) GitHub. Thank you for your patience!
 * 24/03/13: Accepted to NAACL 2024: Findings!
 * 24/03/11: Accepted to ICLR 2024: LLM Agents Workshop!
