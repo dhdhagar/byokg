@@ -12,11 +12,11 @@ Arxiv link: https://arxiv.org/abs/2311.07850
 ## Citation
 ```
 @inproceedings{
-agarwal2024bring,
-title={Bring Your Own {KG}: Self-Supervised Program Synthesis for Zero-Shot {KGQA}},
-author={Dhruv Agarwal and Rajarshi Das and Sopan Khosla and Rashmi Gangadharaiah},
-booktitle={2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
-year={2024},
-url={https://openreview.net/forum?id=Z1IscjaN3g}
+  agarwal2024bring,
+  title={Bring Your Own {KG}: Self-Supervised Program Synthesis for Zero-Shot {KGQA}},
+  author={Dhruv Agarwal and Rajarshi Das and Sopan Khosla and Rashmi Gangadharaiah},
+  booktitle={2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
+  year={2024},
+  url={https://openreview.net/forum?id=Z1IscjaN3g}
 }
 ```
